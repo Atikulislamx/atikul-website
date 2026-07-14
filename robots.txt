@@ -1,0 +1,24 @@
+# ==========================================================================
+# robots.txt
+# Website: https://atikulislam.me
+# Owner: Atikul Islam
+# Description: Crawl directives for search engine bots
+# Last Updated: 2026-07-14
+# ==========================================================================
+
+User-agent: *
+Allow: /
+
+# Allow assets
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /assets/
+Allow: /fonts/
+
+# Optional: Block hidden/system files
+Disallow: /.git/
+Disallow: /.github/
+
+# Sitemap
+Sitemap: https://atikulislam.me/sitemap.xml
