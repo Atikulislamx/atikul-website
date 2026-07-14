@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://atikulislam.me/</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://atikulislam.me/about.html</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://atikulislam.me/services.html</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://atikulislam.me/portfolio.html</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://atikulislam.me/projects.html</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://atikulislam.me/blog.html</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://atikulislam.me/contact.html</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://atikulislam.me/privacy-policy.html</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://atikulislam.me/terms.html</loc>
+        <lastmod>2026-07-14</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.4</priority>
+    </url>
+
+</urlset>
